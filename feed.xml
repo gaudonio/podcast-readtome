@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Read-To-Me</title>
+    <link>https://github.com/gaudonio/podcast-readtome</link>
+    <language>en</language>
+    <itunes:author>B</itunes:author>
+    <itunes:category text="Technology"/>
+    <description>Verbatim reading of Twitter bookmarks. Immediate delivery.</description>
+    <itunes:image href="https://github.com/gaudonio/podcast-readtome/cover.jpg"/>
+    <atom:link href="https://gaudonio.github.io/podcast-readtome/feed.xml" rel="self" type="application/rss+xml"/>
+    
+  </channel>
+</rss>
