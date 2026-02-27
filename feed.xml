@@ -11,19 +11,12 @@
     <atom:link href="https://gaudonio.github.io/podcast-readtome/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Claude Cowork Setup - Nav Toor</title>
-      <enclosure url="https://gaudonio.github.io/podcast-readtome/readtome-2026-02-26-claude-cowork.mp3" length="438272" type="audio/mpeg"/>
-      <guid>readtome-2026-02-26-claude-cowork</guid>
-      <pubDate>Thu, 26 Feb 2026 20:23:00 PST</pubDate>
-      <itunes:duration>00:30</itunes:duration>
+      <title>Claude Cowork Setup - Nav Toor (Complete)</title>
+      <enclosure url="https://gaudonio.github.io/podcast-readtome/readtome-nav-toor-complete.mp3" length="5505024" type="audio/mpeg"/>
+      <guid>readtome-nav-toor-complete-20260226</guid>
+      <pubDate>Fri, 27 Feb 2026 04:07:00 GMT</pubDate>
+      <itunes:duration>04:35</itunes:duration>
     </item>
     
-    <item>
-      <title>Tweets From Nav Toor</title>
-      <enclosure url="https://gaudonio.github.io/podcast-readtome/readtome-20260226-202742-Tweets-From-Nav-Toor.mp3" length="190560" type="audio/mpeg"/>
-      <guid>readtome-nav-toor-20260226</guid>
-      <pubDate>Fri, 27 Feb 2026 04:27:00 GMT</pubDate>
-      <itunes:duration>00:09</itunes:duration>
-    </item>
   </channel>
 </rss>
