@@ -18,5 +18,12 @@
       <itunes:duration>00:30</itunes:duration>
     </item>
     
+    <item>
+      <title>Read-To-Me: Tweets-From-Nav-Toor</title>
+      <enclosure url="https://gaudonio.github.io/podcast-readtome/readtome-20260226-202656-Tweets-From-Nav-Toor.mp3" length="183840" type="audio/mpeg"/>
+      <guid>readtome-20260226-202656</guid>
+      <pubDate>Fri, 27 Feb 2026 04:26:59 GMT</pubDate>
+      <itunes:duration>00:09</itunes:duration>
+    </item>
   </channel>
 </rss>
